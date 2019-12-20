@@ -14,6 +14,6 @@ export default function CharacterCard({ characters }) {
       <h3>Specie: {species}</h3>
       <h4>Status: {status}</h4>
       </Link>
-    </div>
+    </div> 
   );
 }
